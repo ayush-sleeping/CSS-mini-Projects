@@ -1,0 +1,10 @@
+body{
+    background: #fcde67 ;
+}
+
+h1 {
+    background: url(1.jpg) no-repeat;
+    -webkit-background-clip: text;
+    font-size: 165px;
+    -webkit-text-fill-color: transparent;
+}
