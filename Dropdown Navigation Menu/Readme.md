@@ -1,5 +1,6 @@
 # DropDown-Menu
 Here I have created a basic and simple " DropDown-Menu " Project 🚧. <br>
+- Hosted [here](https://dropdown-ayushsleeping.netlify.app/) .
 <br>
 Dropdown menu is a toggleable menu that allows the user to choose one value from a predefined list: Hover Me.
 <br>
@@ -19,13 +20,18 @@ After learning, How to create a Drop Down Menu in Web-Dev., I have make this sma
 
 ## :camera: Snapshots of Projects:
 
-![alt text](https://github.com/ayush-sleeping/DropDown-Menu/blob/main/Snapshot/Snapshot-1.png)
+<br />
+
+You can see [Output](https://dropdown-ayushsleeping.netlify.app/) here !
+
 <br>
+
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Dropdown%20Navigation%20Menu/Snapshot/Snapshot-1.png)
+
 <br>
-<br>
-![alt text](https://github.com/ayush-sleeping/DropDown-Menu/blob/main/Snapshot/Snapshot-2.png)
-<br>
-<br>
+
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Dropdown%20Navigation%20Menu/Snapshot/Snapshot-2.png)
+
 <br>
 
 <div align="center">
