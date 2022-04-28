@@ -1,6 +1,7 @@
 # Wiki-Elon.Musk
 Small Wikipedia 🚧 about Elon Musk <br>
 Here I have created a basic "Frontened-Project" where I am trying to play with colorsand making cool Wikipedia type Information page about Elon Musk,
+- Hosted [here](https://wikielon-ayushsleeping.netlify.app/) here !
 
 ### Objective and Requirements:
 
@@ -11,19 +12,19 @@ Here I have created a basic "Frontened-Project" where I am trying to play with c
 - Required: editor and browser
 
 ## Snapshots:
+<br />
 
-![alt text](https://github.com/ayush-sleeping/Wiki-Elon.Musk/blob/main/Snapshot/Screenshot%20(408).png)
-<br>
-<br>
-![alt text](https://github.com/ayush-sleeping/Wiki-Elon.Musk/blob/main/Snapshot/Screenshot%20(409).png)
-<br>
-<br>
-![alt text](https://github.com/ayush-sleeping/Wiki-Elon.Musk/blob/main/Snapshot/Screenshot%20(410).png)
-<br>
-<br>
-![alt text](https://github.com/ayush-sleeping/Wiki-Elon.Musk/blob/main/Snapshot/Screenshot%20(411).png)
+You can see [Output](https://wikielon-ayushsleeping.netlify.app/) here !
 
-<hr>
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Wki%20ElonMusk%20Info%20Landing%20page/Snapshot/Screenshot%20(408).png)
+
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Wki%20ElonMusk%20Info%20Landing%20page/Snapshot/Screenshot%20(409).png)
+
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Wki%20ElonMusk%20Info%20Landing%20page/Snapshot/Screenshot%20(410).png)
+
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Wki%20ElonMusk%20Info%20Landing%20page/Snapshot/Screenshot%20(411).png)
+
+
 
 <div align="center">
 
