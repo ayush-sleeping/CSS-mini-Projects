@@ -1,7 +1,7 @@
 ## Restaurant-Website
 ( Created this simple "Restaurant-Website" Landing page Project during learning HTML & CSS )
-<br> <br>
-You can see [Output](https://restaurant-basicsite-ayushsleeping.netlify.app/) here !
+<br>
+- Hosted [here](https://basicresturantpage-ayushsleeping.netlify.app/) here !
 
 ## Objective and Requirements:
 - Goal: Create simple and basic "Restaurant Landing page Website"
@@ -12,9 +12,13 @@ You can see [Output](https://restaurant-basicsite-ayushsleeping.netlify.app/) he
 
 ##  :camera: Snapshots of Project:
 
+<br />
+
+You can see [Output](https://basicresturantpage-ayushsleeping.netlify.app/) here !
+
 <br>
 
- ![alt text](https://github.com/ayush-sleeping/Restaurant-Website/blob/main/v1/Output%20img.png)
+ ![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Basic%20Resturant%20Landing%20Page/Output%20img.png)
  
  <br>
  
