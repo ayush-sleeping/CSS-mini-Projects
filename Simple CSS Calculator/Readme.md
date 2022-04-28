@@ -1,6 +1,7 @@
 # Web-Calculator
 This simplest calculators Project 🚧 can do only addition, subtraction, multiplication, and division.
 ( Created this basic Project during learning HTML & CSS )
+- Hosted [here](https://simplecalc-ayushsleeping.netlify.app/) .
 
 ## Objective and Requirements:
 - Goal: Create simple and basic "Calculator Project"
@@ -14,18 +15,19 @@ This simplest calculators Project 🚧 can do only addition, subtraction, multip
 
 
 ###  :camera: Snapshots of Project:
-<hr>
+<br />
+
+You can see [Output](https://simplecalc-ayushsleeping.netlify.app/) here !
 
 <br>
 
- ![alt text](https://github.com/ayush-sleeping/Web-Calculator/blob/main/Snapshot/ss0.png)
- <br>
-<br>
-![alt text](https://github.com/ayush-sleeping/Web-Calculator/blob/main/Snapshot/ss2.png)
-<br>
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Simple%20CSS%20Calculator/Snapshot/ss0.png)
 <br>
 
-![alt text](https://github.com/ayush-sleeping/Web-Calculator/blob/main/Snapshot/ss1.png)
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Simple%20CSS%20Calculator/Snapshot/ss1.png)
+<br>
+
+![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Simple%20CSS%20Calculator/Snapshot/ss2.png)
  
 <div align="center">
 
