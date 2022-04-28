@@ -6,9 +6,12 @@
 ### Table of content:
 
 
-* [v1](#v1)
+* [v1](#v1) 
+  - Hosted [here](https://v1imagetransition-ayushsleeping.netlify.app/) .
 * [v2](#v2)
+  - Hosted [here](https://v2imagetransition-ayushsleeping.netlify.app/) .
 * [v3](#v3)
+  - Hosted [here](https://v3imagetransition-ayushsleeping.netlify.app/) .
 
 <br>
 
@@ -24,31 +27,31 @@
 
 ## v3
 
-I haven'nt uploaded the screen record output, Kindly visit here to see the actual [Output](https://imagetransition-v3-ayushsleeping.netlify.app/) here !
+I haven'nt uploaded the screen record output, Kindly visit here to see the actual [Output](https://v3imagetransition-ayushsleeping.netlify.app/) here !
 
 <br>
 
- ![alt text](https://github.com/ayush-sleeping/Image-Slideshow-and-Transition/blob/main/OutPut/v3.png)
+ ![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Image%20Slideshow%20and%20Transition/Output/v3.png)
  
  <br>
 
 ## v2
 
-I haven'nt uploaded the screen record output, Kindly visit here to see the actual [Output](https://imageslideshow-v2-ayushsleeping.netlify.app/) here !
+I haven'nt uploaded the screen record output, Kindly visit here to see the actual [Output](https://v2imagetransition-ayushsleeping.netlify.app/) here !
 
 <br>
 
- ![alt text](https://github.com/ayush-sleeping/Image-Slideshow-and-Transition/blob/main/OutPut/v2.png)
+ ![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Image%20Slideshow%20and%20Transition/Output/v2.png)
  
  <br>
  
 ## v1
 
-I haven'nt uploaded the screen record output, Kindly visit here to see the actual [Output](https://imageslideshow-v1-ayushsleeping.netlify.app/) here !
+I haven'nt uploaded the screen record output, Kindly visit here to see the actual [Output](https://v1imagetransition-ayushsleeping.netlify.app/) here !
 
 <br>
 
- ![alt text](https://github.com/ayush-sleeping/Image-Slideshow-and-Transition/blob/main/OutPut/v1.png)
+ ![alt text](https://github.com/ayush-sleeping/CSS-mini-Projects/blob/main/Image%20Slideshow%20and%20Transition/Output/v1.png)
  
  <br>
  
